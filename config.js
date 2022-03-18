@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: '', //OTU0NDY4MDA0NDg4NDI1NDgz.YjTjmQ.Pek2CvYv4Kspjh3gu5ezleYTBP8
+        TOKEN: 'OTU0NDY4MDA0NDg4NDI1NDgz.YjTjmQ.Pek2CvYv4Kspjh3gu5ezleYTBP8', //
         px: '!',
         playing: 'Umut Bayraktar ❤️ Music Bot',
 
